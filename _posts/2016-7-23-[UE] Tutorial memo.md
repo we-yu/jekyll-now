@@ -1,7 +1,7 @@
 ---
-layout : post
-title : [UE] Tutorials
-permalink : /2014-07-23/
+layout: post
+title: [UE] Tutorials
+permalink: /2014-07-23/
 ---
 
 # 2 - Viewport Navigation
