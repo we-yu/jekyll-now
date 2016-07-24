@@ -23,9 +23,14 @@ tags: UnrealEngine
 + Lit, Show
 
 #### [5 - Placing Objects in Your Level](https://www.youtube.com/watch?v=yCiaulXn3KE)
-+ AAA
++ New map
+  - File->New Level(Ctrl+N)
++ アクタの設置
+  - Modes/Content Browserからアクタを引っ張ることでScene内にオブジェクトを設置。
+  - 設置後、Scene内で右クリック。Place Actorで最近設置したオブジェクトを再度配置。Replace Selected Actor withで選択中のオブジェクトを最近のオブジェクトに置換。
+  - Class ViewerはDepelover Toolsの下に。
 
-#### [4 - View Modes and Show Flags]()
+#### [6 - Moving Objects](https://www.youtube.com/watch?v=TfxeC_UX_Ko)
 + AAA
 
 #### [4 - View Modes and Show Flags]()
