@@ -31,7 +31,11 @@ tags: UnrealEngine
   - Class ViewerはDepelover Toolsの下に。
 
 #### [6 - Moving Objects](https://www.youtube.com/watch?v=TfxeC_UX_Ko)
-+ AAA
++ オブジェクトの操作
+  - WER:位置操作／角度操作／サイズ操作
+  - W:World/Local World:絶対的に位置を操作する Local:オブジェクトの角度に基づき相対的に位置を操作する
+  - End:直下のオブジェクト上に置く。
+  - Snap:位置／角度／サイズを操作する際の変更単位。
 
 #### [4 - View Modes and Show Flags]()
 + AAA
