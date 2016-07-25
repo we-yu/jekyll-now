@@ -38,6 +38,26 @@ tags: UnrealEngine
   - Snap:位置／角度／サイズを操作する際の変更単位。
 
 #### [7 - Rotating Objects](https://www.youtube.com/watch?v=KQ1zuL2PWtk)
+#### [8 - Scaling Objects](https://www.youtube.com/watch?v=NBqR6vNrESM)
+
+#### [9 - Moving with the Camera](https://www.youtube.com/watch?v=yNsKAntWiB0)
++ SpotlightとView中のカメラ視線を一致させたいような場合
+  - 対象オブジェクトを選択・右クリック→Pilot 'SpotLight'
+  - 矢印ギズモがうざい場合はViewport Options->Game
+
+#### [10 - Introduction to the Content Browser](https://www.youtube.com/watch?v=kTyOLkCOcZY)
++ AAA
+
+#### [4 - View Modes and Show Flags]()
++ AAA
+
+#### [4 - View Modes and Show Flags]()
++ AAA
+
+#### [4 - View Modes and Show Flags]()
++ AAA
+
+#### [4 - View Modes and Show Flags]()
 + AAA
 
 #### [4 - View Modes and Show Flags]()
