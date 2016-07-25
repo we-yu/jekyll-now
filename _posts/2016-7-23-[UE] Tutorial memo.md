@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unreal Engine tutorial notes
-permalink: /2016-07-23-01/
+permalink: /2016-07-24-01/
 tags: UnrealEngine
 ---
 
