@@ -37,7 +37,7 @@ tags: UnrealEngine
   - End:直下のオブジェクト上に置く。
   - Snap:位置／角度／サイズを操作する際の変更単位。
 
-#### [4 - View Modes and Show Flags]()
+#### [7 - Rotating Objects](https://www.youtube.com/watch?v=KQ1zuL2PWtk)
 + AAA
 
 #### [4 - View Modes and Show Flags]()
