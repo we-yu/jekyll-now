@@ -46,8 +46,13 @@ tags: UnrealEngine
   - 矢印ギズモがうざい場合はViewport Options->Game
 
 #### [10 - Introduction to the Content Browser](https://www.youtube.com/watch?v=kTyOLkCOcZY)
-+ AAA
-
++ オブジェクト選択した際、Detailsパネル内の虫眼鏡マークからContent Browser内の対応するマテリアルにジャンプできる。
++ *マークのConentは未セーブ。
++ Collectionsタブを開く場合、View Optionsから表示させる。
++ Filetersで下フォルダ内の特定の属性のもののみ表示させることができる。フィルタ結果の文字列を右クリックすることで各種操作が可能。Filter+文字も可能
++ Contentsリスト内、ホイールだけでなく右クリックからハンドツールのように表示範囲を操作することが可能。
++ Real-Time Thumbnails+Thumbnail Edit modeでサムネイルを直接操作できる。左上のアイコンをクリックすることで形状を変更可能。
++ 
 #### [4 - View Modes and Show Flags]()
 + AAA
 
